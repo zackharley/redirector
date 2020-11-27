@@ -1,5 +1,6 @@
 # redirector
-🏹 For redirecting to desktop apps
+
+> 🏹 For redirecting to desktop apps
 
 ## Why I built this
 
